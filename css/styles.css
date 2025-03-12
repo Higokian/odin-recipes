@@ -15,4 +15,9 @@ ul {
 
 a {
     text-decoration: none;
+    color: rgb(18, 64, 230);
+}
+
+a:hover {
+    color: rgb(107, 142, 239);
 }
