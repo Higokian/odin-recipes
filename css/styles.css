@@ -1,0 +1,9 @@
+html {
+    background: url("../img/food-bg.webp") no-repeat fixed ;
+    background-size: cover;
+}
+
+body {
+    text-align: center;
+    
+}
