@@ -5,12 +5,17 @@ html {
 
 body {
     text-align: center;
-    
+    margin: 0 auto;
+    width: 50%;
 }
 
 ul {
     list-style: none;
     padding-inline-start: 0px;
+}
+
+ol {
+    text-align: left;
 }
 
 a {
