@@ -16,6 +16,12 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
+h1 {
+    font-size: 5rem;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
 ul {
     list-style: none;
     padding-inline-start: 0px;
