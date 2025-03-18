@@ -25,6 +25,8 @@ ol {
     text-align: left;
 }
 
+
+
 a {
     text-decoration: none;
     color: rgb(18, 64, 230);
@@ -39,6 +41,6 @@ a:hover {
     height: 300px;
     width: 300px;
     margin: 10px;
-    padding: 10px;
+    padding-top: 125px;
     background-color: aqua; 
 }
