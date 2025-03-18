@@ -42,5 +42,17 @@ a:hover {
     width: 300px;
     margin: 10px;
     padding-top: 125px;
-    background-color: aqua; 
+    border: solid 3px black; 
+}
+
+.chicken-alfredo {
+    background-image : url("../img/alfredo.webp");
+}
+
+.chicken-enchilada-casserole {
+    background-image: url(../img/chicken-enchilada-casserole.webp);
+}
+
+.lasagna {
+    background-image: url(../img/lasagna.webp);
 }
