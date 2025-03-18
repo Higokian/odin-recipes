@@ -29,7 +29,9 @@ ol {
 
 a {
     text-decoration: none;
-    color: rgb(18, 64, 230);
+    color: rgb(244, 242, 242);
+    font-size: 16px;
+    font-weight: 800;
 }
 
 a:hover {
@@ -46,13 +48,14 @@ a:hover {
 }
 
 .chicken-alfredo {
-    background-image : url("../img/alfredo.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../img/alfredo.webp");
+    
 }
 
 .chicken-enchilada-casserole {
-    background-image: url(../img/chicken-enchilada-casserole.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/chicken-enchilada-casserole.webp);
 }
 
 .lasagna {
-    background-image: url(../img/lasagna.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/lasagna.webp);
 }
